@@ -144,11 +144,12 @@ linked subprograms that the work is specifically designed to require,
 such as by intimate data communication or control flow between those
 subprograms and other parts of the work.
 
-  The corresponding Source need not include anything that users
+  The Corresponding Source need not include anything that users
 can regenerate automatically from other parts of the Corresponding
 Source.
 
   The corresponding Source for a work in source code form is that
+  The Corresponding Source for a work in source code form is that
 same work.
 
   2. Basic Permissions.
